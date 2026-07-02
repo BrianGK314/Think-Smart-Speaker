@@ -1,0 +1,6 @@
+{
+  "name": "Sauti - Nairobi Smart Speaker Demo",
+  "description": "A Kenyan-centered web app demonstrating a smart speaker system for urban Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

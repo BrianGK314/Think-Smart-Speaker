@@ -1,21 +1,20 @@
 <div align="center">
-
-
-
-  <h1>Think Smart Speaker Project</h1>
-
-  <p>
-    A Kenyan smart speaker prototype designed to demonstrate voice-led commerce,
-    local purchase memory, M-Pesa confirmation, vendor search, delivery tracking,
-    and safe AI-powered task automation.
-  </p>
-
-  <p>
-    The system explores how a low-cost smart speaker can act as an edge AI hub
-    for urban Nairobi workflows such as ordering household items, checking prices,
-    confirming payments, and coordinating delivery.
-  </p>
-
-  <a href="#project-overview">View Project Overview</a>
-
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/d739ba71-f1e0-4ef2-8715-319376356206
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
